@@ -1,0 +1,60 @@
+{"flights":[
+    {
+    "id": 1,
+    "airline": "Lufthansa",
+    "depart_date": "1-jan",
+    "arrive_date": "2-jan",
+    "depart_airport": "LHR",
+    "arrive_airport": "JFK",
+    "depart_time": "10:25 PM",
+    "arrive_time": "12:25 PM",
+    "flight_duration": "22h 50m",
+    "n_stops": 1,
+    "price": 267,
+    "currency": "US$",
+    "class": "Economy",
+    "legs": [
+        {"leg": 1, "flight_id": 731},
+        {"leg": 2, "flight_id": 817}],
+    "wi-fi": false
+    },
+    {
+    "id": 2,
+    "airline": "Lufthansa",
+    "depart_date": "3-jan",
+    "arrive_date": "4-jan",
+    "depart_airport": "LHR",
+    "arrive_airport": "JFK",
+    "depart_time": "10:25 PM",
+    "arrive_time": "12:25 PM",
+    "flight_duration": "22h 50m",
+    "n_stops": 1,
+    "price": 299,
+    "currency": "US$",
+    "class": "Economy",
+    "legs": [
+        {"leg": 1, "flight_id": 731},
+        {"leg": 2, "flight_id": 817}],
+    "wi-fi": false
+    },
+    {
+    "id": 3,
+    "airline": "Lufthansa",
+    "depart_date": "4-jan",
+    "arrive_date": "5-jan",
+    "depart_airport": "LHR",
+    "arrive_airport": "JFK",
+    "depart_time": "10:25 PM",
+    "arrive_time": "12:25 PM",
+    "flight_duration": "22h 50m",
+    "n_stops": 1,
+    "price": 342,
+    "currency": "US$",
+    "class": "Economy",
+    "legs": [
+        {"leg": 1, "flight_id": 123},
+        {"leg": 2, "flight_id": 145}],
+    "wi-fi": false
+    }
+]
+}
