@@ -16,7 +16,11 @@
     "legs": [
         {"leg": 1, "flight_id": 731},
         {"leg": 2, "flight_id": 817}],
-    "wi-fi": false
+    services: [
+        "wifi",              //in-flight
+        "meal",              //in-flight
+        "lounge"             //airport
+        ]
     },
     {
     "id": 2,
@@ -35,7 +39,9 @@
     "legs": [
         {"leg": 1, "flight_id": 731},
         {"leg": 2, "flight_id": 817}],
-    "wi-fi": false
+    services: [
+        "wifi",              //in-flight
+        "meal",              //in-flight
     },
     {
     "id": 3,
@@ -54,7 +60,26 @@
     "legs": [
         {"leg": 1, "flight_id": 123},
         {"leg": 2, "flight_id": 145}],
-    "wi-fi": false
+    services: [
+        "wifi",              //in-flight
+        "lounge"             //airport
     }
 ]
 }
+
+
+
+
+
+
+    // services: [
+    //     "wifi": false,              //in-flight
+    //     "meal": false,              //in-flight
+    //     "entertainment": false,     //in-flight
+    //     "seat_selection": false,    //in-flight
+    //     "preferred_seat": false,    //in-flight
+    //     "economy_comfort": false,   //in-flight
+    //     "priority_boarding": false, //airport
+    //     "fast_security": false,     //airport
+    //     "lounge": false             //airport
+    //     ]
