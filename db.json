@@ -26,7 +26,7 @@
         "device-charging"          
         ],
     "add_ons": [          
-        "blankets",                       
+        "blankets"                       
         ],
     "selected": false
     },
@@ -52,7 +52,7 @@
         "meal"
         ],
     "add_ons": [          
-        "blankets",                       
+        "blankets"                       
         ],
     "selected": false          
     },
@@ -80,7 +80,7 @@
         "device-charging" 
         ],
     "add_ons": [          
-        "blankets",                       
+        "blankets"                       
         ],
     "selected": false        
     },
