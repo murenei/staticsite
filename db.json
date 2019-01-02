@@ -2,6 +2,7 @@
     {
     "id": 1,
     "airline": "Cosmos",
+    "image": "img/aircanada.jpg",
     "depart_date": "1-Apr",
     "arrive_date": "1-Apr",
     "depart_airport": "SIN",
@@ -25,6 +26,7 @@
     {
     "id": 2,
     "airline": "Scoot",
+    "image": "img/lufthansa.jpg",
     "depart_date": "1-Apr",
     "arrive_date": "1-Apr",
     "depart_airport": "SIN",
@@ -46,6 +48,7 @@
     {
     "id": 3,
     "airline": "Scoot",
+    "image": "img/lufthansa.jpg",
     "depart_date": "1-Apr",
     "arrive_date": "1-Apr",
     "depart_airport": "SIN",
@@ -68,6 +71,7 @@
     {
     "id": 4,
     "airline": "OceaniaAir",
+    "image": "img/airfrance.jpg",
     "depart_date": "1-Apr",
     "arrive_date": "2-Apr",
     "depart_airport": "SIN",
