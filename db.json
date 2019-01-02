@@ -23,7 +23,7 @@
         "meal",              
         "lounge",
         "1-bag",           
-        "device-charging",           
+        "device-charging"          
         ],
     "add_ons": [          
         "blankets",                       
@@ -77,7 +77,7 @@
     "services": [         
         "meal",
         "1-bag",
-        "device-charging", 
+        "device-charging" 
         ],
     "add_ons": [          
         "blankets",                       
@@ -108,7 +108,7 @@
         "meal",
         "entertainment",
         "1-bag",
-        "device-charging", 
+        "device-charging" 
         ],
     "add_ons": [                           
         ],
