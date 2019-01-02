@@ -1,69 +1,93 @@
 {"flights":[
     {
     "id": 1,
-    "airline": "Lufthansa",
-    "depart_date": "1-jan",
-    "arrive_date": "2-jan",
-    "depart_airport": "LHR",
-    "arrive_airport": "JFK",
-    "depart_time": "10:25 PM",
-    "arrive_time": "12:25 PM",
-    "flight_duration": "22h 50m",
-    "n_stops": 1,
-    "price": 267,
-    "currency": "US$",
+    "airline": "Cosmos",
+    "depart_date": "1-Apr",
+    "arrive_date": "1-Apr",
+    "depart_airport": "SIN",
+    "arrive_airport": "SYD",
+    "depart_time": "07:10 AM",
+    "arrive_time": "05:50 PM",
+    "flight_duration": "7h 40m",
+    "n_stops": 0,
+    "price": 810,
+    "currency": "AU$",
     "class": "Economy",
     "legs": [
         {"leg": 1, "flight_id": 731},
         {"leg": 2, "flight_id": 817}],
-    "services": [
-        "wifi",              
+    "services": [          
         "meal",              
-        "lounge"             
+        "lounge",
+        "1-bag"           
         ]
     },
     {
     "id": 2,
-    "airline": "Lufthansa",
-    "depart_date": "3-jan",
-    "arrive_date": "4-jan",
-    "depart_airport": "LHR",
-    "arrive_airport": "JFK",
-    "depart_time": "10:25 PM",
-    "arrive_time": "12:25 PM",
-    "flight_duration": "22h 50m",
-    "n_stops": 1,
-    "price": 299,
-    "currency": "US$",
+    "airline": "Scoot",
+    "depart_date": "1-Apr",
+    "arrive_date": "1-Apr",
+    "depart_airport": "SIN",
+    "arrive_airport": "SYD",
+    "depart_time": "02:00 AM",
+    "arrive_time": "12:45 PM",
+    "flight_duration": "7h 45m",
+    "n_stops": 0,
+    "price": 232,
+    "currency": "AU$",
     "class": "Economy",
     "legs": [
-        {"leg": 1, "flight_id": 731},
-        {"leg": 2, "flight_id": 817}],
-    "services": [
-        "wifi",             
+        {"leg": 1, "flight_id": 731}
+        ]
+    "services": [         
         "meal"
-        ]             
+        ]            
     },
     {
     "id": 3,
-    "airline": "Lufthansa",
-    "depart_date": "4-jan",
-    "arrive_date": "5-jan",
-    "depart_airport": "LHR",
-    "arrive_airport": "JFK",
-    "depart_time": "10:25 PM",
-    "arrive_time": "12:25 PM",
-    "flight_duration": "22h 50m",
+    "airline": "Scoot",
+    "depart_date": "1-Apr",
+    "arrive_date": "1-Apr",
+    "depart_airport": "SIN",
+    "arrive_airport": "SYD",
+    "depart_time": "02:00 AM",
+    "arrive_time": "12:45 PM",
+    "flight_duration": "7h 45m",
+    "n_stops": 0,
+    "price": 276,
+    "currency": "AU$",
+    "class": "Economy",
+    "legs": [
+        {"leg": 1, "flight_id": 732}
+    ]
+    "services": [         
+        "meal",
+        "1-bag"
+        ]             
+    },
+    {
+    "id": 4,
+    "airline": "OceaniaAir",
+    "depart_date": "1-Apr",
+    "arrive_date": "2-Apr",
+    "depart_airport": "SIN",
+    "arrive_airport": "SYD",
+    "depart_time": "10:25 AM",
+    "arrive_time": "07:35 AM",
+    "flight_duration": "18h 10m",
     "n_stops": 1,
-    "price": 342,
-    "currency": "US$",
+    "price": 421,
+    "currency": "AU$",
     "class": "Economy",
     "legs": [
         {"leg": 1, "flight_id": 123},
         {"leg": 2, "flight_id": 145}],
     "services": [
         "wifi",             
-        "lounge"
+        "lounge",
+        "meal",
+        "entertainment",
+        "1-bag"
         ]          
     }
 ]
