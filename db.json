@@ -2,7 +2,7 @@
     {
     "id": 1,
     "airline": "Cosmos",
-    "image": "img/eagle-in-flight-logo_edited.jpg",
+    "image": "img/cosmos_logo.jpg",
     "depart_date": "1-Apr",
     "arrive_date": "1-Apr",
     "depart_airport": "SIN",
@@ -34,8 +34,8 @@
     },
     {
     "id": 2,
-    "airline": "Scoot",
-    "image": "img/lufthansa.jpg",
+    "airline": "Rapido",
+    "image": "img/rapido_logo.jpg",
     "depart_date": "1-Apr",
     "arrive_date": "1-Apr",
     "depart_airport": "SIN",
@@ -61,8 +61,8 @@
     },
     {
     "id": 3,
-    "airline": "Scoot",
-    "image": "img/lufthansa.jpg",
+    "airline": "Rapido",
+    "image": "img/rapido_logo.jpg",
     "depart_date": "1-Apr",
     "arrive_date": "1-Apr",
     "depart_airport": "SIN",
@@ -90,7 +90,7 @@
     {
     "id": 4,
     "airline": "AirOceana",
-    "image": "img/airfrance.jpg",
+    "image": "img/oceanaair_logo.jpg",
     "depart_date": "1-Apr",
     "arrive_date": "2-Apr",
     "depart_airport": "SIN",
@@ -121,7 +121,7 @@
     {
     "id": 5,
     "airline": "AirOceana",
-    "image": "img/airfrance.jpg",
+    "image": "img/oceanaair_logo.jpg",
     "depart_date": "1-Apr",
     "arrive_date": "2-Apr",
     "depart_airport": "SIN",
