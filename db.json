@@ -14,14 +14,21 @@
     "price": 810,
     "currency": "AU$",
     "class": "Economy",
+    "seat_width": "",
+    "legroom": "",
     "legs": [
         {"leg": 1, "flight_id": 731},
         {"leg": 2, "flight_id": 817}],
     "services": [          
         "meal",              
         "lounge",
-        "1-bag"           
-        ]
+        "1-bag",           
+        "device-charging",           
+        ],
+    "add_ons": [          
+        "blankets",                       
+        ],
+    "selected": false
     },
     {
     "id": 2,
@@ -43,7 +50,11 @@
         ],
     "services": [         
         "meal"
-        ]            
+        ],
+    "add_ons": [          
+        "blankets",                       
+        ],
+    "selected": false          
     },
     {
     "id": 3,
@@ -65,12 +76,17 @@
     ],
     "services": [         
         "meal",
-        "1-bag"
-        ]             
+        "1-bag",
+        "device-charging", 
+        ],
+    "add_ons": [          
+        "blankets",                       
+        ],
+    "selected": false        
     },
     {
     "id": 4,
-    "airline": "OceaniaAir",
+    "airline": "AirOceana",
     "image": "img/airfrance.jpg",
     "depart_date": "1-Apr",
     "arrive_date": "2-Apr",
@@ -91,8 +107,12 @@
         "lounge",
         "meal",
         "entertainment",
-        "1-bag"
-        ]          
+        "1-bag",
+        "device-charging", 
+        ],
+    "add_ons": [                           
+        ],
+    "selected": false         
     }
 ]
 }
