@@ -55,7 +55,9 @@
         ],
     "add_ons": [          
         "blankets",
-        "wifi"                       
+        "wifi",
+        "1-bag",                      
+        "entertainment"                      
         ],
     "selected": false          
     },
@@ -82,8 +84,10 @@
         "1-bag",
         "device-charging" 
         ],
-    "add_ons": [          
-        "blankets"                       
+    "add_ons": [  
+        "wifi",        
+        "blankets",
+        "entertainment"                     
         ],
     "selected": false        
     },
@@ -114,7 +118,7 @@
         "device-charging" 
         ],
     "add_ons": [
-        "entertainment"                          
+        "blankets"                          
         ],
     "selected": false         
     },
@@ -123,14 +127,14 @@
     "airline": "AirOceana",
     "image": "img/oceanaair_logo.jpg",
     "depart_date": "1-Apr",
-    "arrive_date": "2-Apr",
+    "arrive_date": "1-Apr",
     "depart_airport": "SIN",
     "arrive_airport": "SYD",
-    "depart_time": "10:25 AM",
-    "arrive_time": "07:35 AM",
-    "flight_duration": "18h 10m",
-    "n_stops": 1,
-    "price": 421,
+    "depart_time": "9:35 AM",
+    "arrive_time": "8:15 PM",
+    "flight_duration": "7h 40m",
+    "n_stops": 0,
+    "price": 396,
     "currency": "AU$",
     "class": "Economy",
     "legs": [
@@ -145,7 +149,7 @@
         "device-charging" 
         ],
     "add_ons": [
-        "entertainment"                          
+        "blankets"                          
         ],
     "selected": false         
     }
