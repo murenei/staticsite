@@ -38,7 +38,7 @@
     "class": "Economy",
     "legs": [
         {"leg": 1, "flight_id": 731}
-        ]
+        ],
     "services": [         
         "meal"
         ]            
@@ -59,7 +59,7 @@
     "class": "Economy",
     "legs": [
         {"leg": 1, "flight_id": 732}
-    ]
+    ],
     "services": [         
         "meal",
         "1-bag"
