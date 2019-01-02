@@ -2,7 +2,7 @@
     {
     "id": 1,
     "airline": "Cosmos",
-    "image": "img/aircanada.jpg",
+    "image": "img/eagle-in-flight-logo_edited.jpg",
     "depart_date": "1-Apr",
     "arrive_date": "1-Apr",
     "depart_airport": "SIN",
@@ -26,7 +26,9 @@
         "device-charging"          
         ],
     "add_ons": [          
-        "blankets"                       
+        "blankets",
+        "wifi",
+        "1-bag"                       
         ],
     "selected": false
     },
@@ -52,7 +54,8 @@
         "meal"
         ],
     "add_ons": [          
-        "blankets"                       
+        "blankets",
+        "wifi"                       
         ],
     "selected": false          
     },
@@ -110,7 +113,39 @@
         "1-bag",
         "device-charging" 
         ],
-    "add_ons": [                           
+    "add_ons": [
+        "entertainment"                          
+        ],
+    "selected": false         
+    },
+    {
+    "id": 5,
+    "airline": "AirOceana",
+    "image": "img/airfrance.jpg",
+    "depart_date": "1-Apr",
+    "arrive_date": "2-Apr",
+    "depart_airport": "SIN",
+    "arrive_airport": "SYD",
+    "depart_time": "10:25 AM",
+    "arrive_time": "07:35 AM",
+    "flight_duration": "18h 10m",
+    "n_stops": 1,
+    "price": 421,
+    "currency": "AU$",
+    "class": "Economy",
+    "legs": [
+        {"leg": 1, "flight_id": 123},
+        {"leg": 2, "flight_id": 145}],
+    "services": [
+        "wifi",             
+        "lounge",
+        "meal",
+        "entertainment",
+        "1-bag",
+        "device-charging" 
+        ],
+    "add_ons": [
+        "entertainment"                          
         ],
     "selected": false         
     }
